@@ -1,0 +1,18 @@
+.App {
+    background-image: url(./img/mainBgImg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 0.5rem;
+}
+
+.box {
+    background-color: black;
+    opacity: 50%;
+    border-radius: 1rem;
+    padding: 2rem;
+}
