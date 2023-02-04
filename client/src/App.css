@@ -12,7 +12,11 @@
 
 .box {
     background-color: black;
-    opacity: 50%;
+    opacity: 80%;
     border-radius: 1rem;
     padding: 2rem;
+}
+
+.add {
+    cursor: pointer;
 }

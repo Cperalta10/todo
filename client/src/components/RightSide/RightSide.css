@@ -3,3 +3,8 @@
     flex-direction: column;
     gap: 0.5rem;
 }
+
+.calendarContainer {
+    width: 400px;
+    height: 400px;
+}
